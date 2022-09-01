@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="iclooud.tech.super_quiz">
+    package="com.example.super_quiz">
    <application
         android:label="super_quiz"
         android:name="${applicationName}"

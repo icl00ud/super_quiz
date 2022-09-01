@@ -1,6 +1,6 @@
 # super_quiz
 
-Um quiz genérico
+A new Flutter project.
 
 ## Getting Started
 
